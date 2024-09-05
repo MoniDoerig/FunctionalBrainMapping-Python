@@ -1,1 +1,8 @@
-
+matplotlib==3.8.4
+nibabel==5.2.1
+nilearn==0.10.4
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+siibra==1.0a14
+python_version=="3.11.6"
